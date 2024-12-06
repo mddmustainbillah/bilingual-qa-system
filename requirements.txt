@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+accelerate
+bitsandbytes
+sentencepiece
+gradio
+pandas
+numpy
+evaluate
+trl
+peft 

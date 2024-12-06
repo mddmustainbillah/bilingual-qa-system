@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbookpro/Desktop/assignment/mlruns/0/d111ab75a76c4803be2f728f588aa40a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d111ab75a76c4803be2f728f588aa40a
+run_name: ./results
+run_uuid: d111ab75a76c4803be2f728f588aa40a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733461933458
+status: 1
+tags: []
+user_id: macbookpro
